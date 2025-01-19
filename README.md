@@ -1,9 +1,6 @@
 AI-Powered Email Reply Extension for Gmail
 
 
-
-
-
 This repository contains a Chrome extension that integrates AI to generate context-aware email replies in Gmail. The extension is designed to boost productivity and reduce response time by suggesting intelligent email replies based on the content of received emails.
 
 Features
