@@ -77,5 +77,7 @@ This project is licensed under the MIT License.
 📧 Contact
 
 For issues or suggestions, contact the developer:
+
 Email: BhargawKumarSingh@gmail.com
+
 GitHub: Bhargaw21
