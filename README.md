@@ -31,23 +31,8 @@ Frontend: React
 Backend: Spring Boot
 
 📝 Sample manifest.json
-{
-  "manifest_version": 3,
-  "name": "AI-Generated-Email-Reply-Extension",
-  "version": "1.0",
-  "description": "Generate AI-based email replies with different tones in Gmail.",
-  "permissions": ["activeTab", "scripting"],
-  "content_scripts": [
-    {
-      "matches": ["https://mail.google.com/*"],
-      "js": ["content.js"]
-    }
-  ],
-  "action": {
-    "default_popup": "popup.html",
-    "default_icon": "icon.png"
-  }
-}
+![image](https://github.com/user-attachments/assets/c9b23901-17c3-4bb6-aaaf-ac97be9b99de)
+
 
 🚧 Limitations
 
