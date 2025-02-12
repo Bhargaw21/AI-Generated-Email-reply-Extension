@@ -49,15 +49,15 @@ Backend: Spring Boot
 🚧 Limitations
 
 * Requires internet connectivity to generate AI responses.
-* 
+  
 * Manual edits may be necessary for certain replies.
 
 🚀 Future Enhancements
 
 * Add more tone options (e.g., humorous, apologetic).
-* 
+  
 * Allow user customization of tone settings.
-* 
+  
 * Support for other email platforms (e.g., Outlook, Yahoo Mail).
 
 🤝 Contributing
